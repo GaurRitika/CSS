@@ -1,0 +1,66 @@
+#box{
+    background-color: aqua;
+    /* color:white; */ 
+}
+.heading{
+    color:rgb(143, 34, 34);
+}
+ h1,h2,h3{
+    color:aquamarine;
+    text-decoration: line-through;
+ }
+ p{
+    text-align: left;/* start*/
+ }
+ a{
+    text-decoration: none;
+ }/* mdn website for css*/
+/* font weight 100 = lightest shade 
+900 = darkest shade , bolds around 400 peh hota heg
+*/
+#h1{
+    font-weight:100 ;
+}
+#h2{
+    font-weight:400;
+}
+#h3{
+    font-weight:900 ;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}/* aiseh hi font size px meh deh sakte heh*/
+/* line-height: normal bhi likh sakti ho or pixel meh bhi
+text-transform:capitalise , waise capitalise karne se har word ka first letter capital ho jayega
+text-transform meh uppercase,lowercase,capitalise or none aata heh*/
+div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-width: 9px;
+    border-style: solid;/* solid,dotted ,dashed yeh theen hote heh*/
+   
+    border-color: blanchedalmond;
+     /*waise boreder ki yeh theen property ko short meh , border:2px solid black; aiseh bhi likha jaa sakta */
+     border-radius: 10px; /*or
+     border-radius:50%;*/
+     padding-left: 34px;
+     /* chaaro taraf se alag alag bhi deh sakti ho padding;1px 2px 3px 6px;
+     aiseh hi margin meh bhi hota heh
+     inline - take only required space
+     block - take full space available in width.
+     inline-block - similar to inline but we can set margin and padding.
+     none - to remove element from document flow
+     background-color: rgba(0 , 0 , 255 , 0 ); a means apacity ranges from 0 to 1;
+     relative units:
+    percentage - parent child relationship
+    em,rem
+    position - static/relative/absolute/fixed/sticky
+    for static top , bottom, left , right and z index will not work
+    relative - top , bottom, left , right and z index will work
+absolute - positioned relative to its closest positioned ancestor
+fixed - positioned relative to browser
+background-image- contain,cover,auto 
+     */
+
+}

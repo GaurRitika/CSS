@@ -1,0 +1,358 @@
+*{
+    padding:0;
+    margin:0;
+}
+#navbar {
+    height: 80px;
+color: antiquewhite;
+    background-color: rgb(10, 10, 35);
+    display: flex;
+    width:1450px;
+    position: relative;
+  
+}
+#border{
+    border: 1.5px solid transparent;
+}
+
+#logo {
+    height:60px;
+    width: 130px;
+    margin : 20px;
+}
+#normal {
+    margin:10px;
+}
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+#searching {
+    display: flex;
+    color:antiquewhite;
+  
+}
+input{
+    margin-top: 18px;
+    width: 480px;
+    height: 35px;
+    border-radius: 4px;
+}
+button{
+    background-color: rgb(255, 183, 0);
+    width: 45px;
+    height: 43px;
+    margin-top: 16px;
+    border-radius: 4px;
+}
+
+#category{
+    background-color: rgb(213, 212, 211);
+    width: 45px;
+    height: 40px;
+    margin-top: 18px;
+    border-radius: 4px;
+}
+#flag{
+    color:antiquewhite;
+    background-color: black;
+    width: 45px;
+    height: 27px;
+    margin-top: 25px;
+    border-radius: 4px;
+}
+#account {
+    color:antiquewhite;
+    background-color: black;
+    width: 120px;
+    height: 27px;
+    margin-top: 5px;
+    border-radius: 4px;
+    margin-left: 23px;
+    
+}
+#hello{
+    margin-top: 15px;
+    margin-left: 23px;
+}
+#return{
+    margin-top: 15px;
+    margin-left: 32px;
+}
+#returns{
+    margin-top: 1px;
+    margin-left: 32px;
+}
+#cart {
+  
+    margin-top: 24px;
+    margin-left: 32px;
+    
+}
+#downnav {
+    height: 45px;
+    color: rgb(255, 255, 255);
+        background-color: rgb(0, 0, 0);
+        display: flex;
+        width:1450px;
+        
+}
+#menu {
+    margin-top: 9px;
+    margin-right: 20px;
+    margin-left: 5px;
+}
+#downmenu {
+   margin-right: 15px;
+   display: flex;
+   margin-top: 15px;
+   font-family:Arial, Helvetica, sans-serif;
+}
+#news {
+    margin-left: 225px;
+   display: flex;
+   margin-top: 15px;
+   font-family:Arial, Helvetica, sans-serif;
+}
+
+.hero-section {
+    
+ background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img2020/img21/apparelGW/jan24atf/unrec/citi/pc_2x._CB584618827_.jpg");
+    justify-content: center;
+    background-size: cover;  
+height:400px;
+display: flex;
+align-items: end;
+    width: 1450px;
+}
+
+
+.hero-msg {
+    background-color: rgb(255, 255, 255);
+    color: black;
+    height: 40px;
+    display: flex;
+   
+    justify-content: center;
+    align-items: center;
+    width: 1400px;
+    margin-bottom: 10px;
+}
+#box {
+    display: flex;
+    width:1450px;
+    height:400px;
+    background-color: darkslategray;
+
+}
+#box1 {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width:400px;
+    margin-right: 10px;
+
+}
+#box2 {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width:400px;
+    margin-right: 10px;
+
+
+}
+#box3 {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width:400px;
+    margin-right: 10px;
+
+
+}
+#box4 {
+    background-color: rgb(255, 255, 255);
+    height: 400px;
+    width:400px;
+
+}
+#revamp {
+    color: black;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 15px;
+} 
+#up {
+    color: black;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 15px;
+} 
+#headphones {
+    color: black;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 15px;
+} 
+#makeup {
+    color: black;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 15px;
+} 
+#photo {
+    display: flex;
+    background: transparent;
+}
+#photo1  {
+    display: flex;
+    background: transparent;
+    margin-left:13px;
+    margin-right:23px;
+}
+#photo2{
+    display: flex;
+    background: transparent;
+}
+#photo3{
+    display: flex;
+    background: transparent;
+    margin-left:13px;
+    margin-right:23px;
+}
+#photo4{
+    display: flex;
+    background: transparent;
+}
+
+#photo5{
+    display: flex;
+    background: transparent;
+    margin-left:13px;
+    margin-right:23px;
+}
+#photo6{
+    display: flex;
+    background: transparent;
+}
+#photo7{
+    display: flex;
+    background: transparent;
+    margin-left:13px;
+    margin-right:23px;
+}
+
+
+#group {
+   
+    height:350px;
+    width:1400px;
+    
+    
+    margin: 25px;
+    background-color: rgb(255, 255, 255);
+
+}
+#today {
+    color:black;
+    
+}
+#b1 {
+    display: flex;
+}
+#power {
+    height:360px;
+    width:1450px;
+    background-color: rgb(214, 211, 211);
+
+}
+#power1 {
+    height:360px;
+    width:1450px;
+    background-color: rgb(214, 211, 211);
+
+}
+#b2 {
+    display: flex;
+    margin-right: 20px;;
+}
+#group1 {
+   
+    height:350px;
+    width:1400px;
+    
+    
+    margin: 25px;
+    background-color: rgb(255, 255, 255);
+
+}
+#power2 {
+    height:360px;
+    width:1450px;
+    background-color: rgb(214, 211, 211);
+
+}
+#b3 {
+    display: flex;
+    margin-right: 20px;;
+}
+#group2 {
+   
+    height:350px;
+    width:1400px;
+    
+    
+    margin: 25px;
+    background-color: rgb(255, 255, 255);
+
+}
+#back {
+    height:50px;
+    width: 1450px;
+   
+   display:flex;
+   justify-content: center;
+   align-items: center;
+    color:antiquewhite;
+    background-color: rgb(45, 57, 82);
+}
+#ok {
+    display :flex;
+    height: 400px;
+    width: 1450px;
+    background-color: rgb(13, 30, 53);
+    align-content: center;
+    justify-content: center;
+}
+#get {
+     color:antiquewhite;
+     margin:80px;
+}
+#get1 {
+    color:antiquewhite;
+    margin:80px;
+}
+#get2 {
+    color:antiquewhite;
+    margin:80px;
+}
+#get3 {
+    color:antiquewhite;
+    margin:80px;
+}
+#border {
+    width:1450px;
+    border-top: 2px solid white;
+}
+
+
